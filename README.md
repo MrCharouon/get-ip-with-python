@@ -13,5 +13,5 @@ If you think it is useful for you, you can share it with your friends.
 ![me](https://github.com/MrCharouon/get-ip-with-python/blob/main/images/2.png)
 
 
-> By running this script, it will show you the IP as in the images
+> By running this script, it will show you the IP as in the images,
 > My suggestion is to add a shortcut for this script
